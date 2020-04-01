@@ -1,6 +1,7 @@
 <?php
 require_once("config.php");
 $name="santosh";
+$positon ="Software Devlopment";
     class Model{
         public $conn;
 
