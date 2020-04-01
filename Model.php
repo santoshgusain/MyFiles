@@ -1,6 +1,6 @@
 <?php
 require_once("config.php");
-
+$name="santosh";
     class Model{
         public $conn;
 
